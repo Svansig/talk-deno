@@ -7,6 +7,7 @@ const talk = (str: string) => {
 };
 
 [
+  'Why use Deno?...',
   'Deno is safe.',
   'Deno is built on Rust🦀.',
   'Deno is built on Typescript.',
